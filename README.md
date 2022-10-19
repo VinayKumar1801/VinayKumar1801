@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **vk2814512@gmail.com**
 
-- ⚡ Fun fact **I am funny, quick learner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
