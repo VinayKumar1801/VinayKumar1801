@@ -24,9 +24,10 @@
 </p>
 
 <h2 align="center">My Skills</h2>
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,typescript,nextjs,nodejs,expressjs,mongodb,git,materialui,bootstrap,vscode)](https://skillicons.dev)
-
+</div>
 
 <h2 align="center">Github Stats</h2>
 <p align="center">
