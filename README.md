@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vinaykumar1801.github.io/](https://vinaykumar1801.github.io/)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,ReactJs**
+- 💬 Ask me about **JavaScript,Redux,MERN,NextJs,TypeScript**
 
 - 📫 How to reach me **vk2814512@gmail.com**
 
