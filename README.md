@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/vinaykumar1801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinaykumar1801" height="30" width="40" /></a>
 </p>
 
-<h2 align="center"My Skills:</h2>
+<h2 align="center">My Skills:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,typescript,nextjs,nodejs,expressjs,mongodb,git,materialui,bootstrap,vscode)](https://skillicons.dev)
 
