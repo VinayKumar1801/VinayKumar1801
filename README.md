@@ -29,12 +29,13 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,typescript,nextjs,nodejs,expressjs,mongodb,git,materialui,bootstrap,vscode)](https://skillicons.dev)
 </div>
 
-<h2 align="center">Github Stats</h2>
+<h3 align="center">GitHub Stats</h3>
+
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinaykumar1801">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinaykumar1801">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinaykumar1801">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinaykumar1801">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinaykumar1801&utcOffset=8">
-	
+  <img align="center"  height="200px" width="500px" src="https://github-readme-stats.vercel.app/api?username=vinaykumar1801&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" alt="vinaykumar1801" />
+ </p>
+<p align="center"> <img align="center"  height="200px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumar1801&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="vinaykumar1801" />
 </p>
+<p align="center"><img align="center"  height="200px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykumar1801&theme=great-gatsby&hide_border=false" alt="vinaykumar1801" />
+</p>
+
