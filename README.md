@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumar1801&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykumar1801" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **NextJs,TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://vinaykumar1801.github.io/](https://vinaykumar1801.github.io/)
+- 👨‍💻 All of my projects are available at [[https://vinaykumar1801.github.io/](https://vinaykumar1801.github.io/](https://vinay-kumar-portfolio.netlify.app/))
 
-- 💬 Ask me about **JavaScript,Redux,MERN,NextJs,TypeScript**
+- 💬 Ask me about **JavaScript,Redux,MERN**
 
 - 📫 How to reach me **vk2814512@gmail.com**
 
