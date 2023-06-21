@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **NextJs,TypeScript**
 
-- 👨‍💻 All of my projects are available at [[https://vinaykumar1801.github.io/](https://vinaykumar1801.github.io/](https://vinay-kumar-portfolio.netlify.app/))
-
 - 💬 Ask me about **JavaScript,Redux,MERN**
 
 - 📫 How to reach me **vk2814512@gmail.com**
